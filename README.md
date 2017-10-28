@@ -19,7 +19,7 @@ Fact About Rabbit:
 - יפן
 - סומרטה 
 
-![Image of raccoon](http://www.rabbitbreeds.org/images/small-breeds/american_fuzzy_lop.jpg)
+![Image of raccoon](ex1/images/american_fuzzy_lop.jpg)
 
 עברית | English
 -------|--------
