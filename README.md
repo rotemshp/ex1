@@ -19,7 +19,7 @@ Fact About Rabbit:
 - יפן
 - סומרטה 
 
-![Image of raccoon](https://a-z-animals.com/media/animals/images/470x370/rabbit.jpg)
+![Image of rabbit](https://github.com/rotemshp/ex1/blob/master/images/american_fuzzy_lop.jpg)
 
 עברית | English
 -------|--------
