@@ -19,7 +19,8 @@ Fact About Rabbit:
 - יפן
 - סומרטה 
 
-![Image of rabbit](https://github.com/rotemshp/ex1/blob/master/images/american_fuzzy_lop.jpg)
+
+![Image of github's cat](/images/american_fuzzy_lop.jpg)
 
 עברית | English
 -------|--------
